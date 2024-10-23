@@ -15,7 +15,7 @@
 4. In the `using the selected account` select the account you want to send the KSM from
 5. **Now in the beneficiary section in the `id` field, enter your address. Please make sure you have entered your address here, the prefilled address is not your address.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Now next in the assets section, enter the amount of KSM you want to transfer in the `Fungible` field. Note - Since there are 12 decimals for the KSM token, you need to add 12 zeros after choosing the KSM amount e.g. If you want to transfer 1 KSM, then you should write `1000000000000`.
 

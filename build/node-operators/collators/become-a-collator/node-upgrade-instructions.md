@@ -36,7 +36,7 @@ The latest package provided for Ubuntu is located in **pendulum\_debian\_latest*
 
 <div data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -140,6 +140,6 @@ Navigate to the Pendulum Download page:
 
 The latest package provided for Ubuntu is located in **amplitude\_binary\_latest** folder.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Download the binary file and replace it with the binary you are currently running on your system.
